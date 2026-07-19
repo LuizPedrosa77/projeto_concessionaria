@@ -1,0 +1,8 @@
+Instruções gerais:
+
+1º Criar ambiente virtual: python -m venv venv
+2º Ativar o ambiente virtual: .\venv\Scripts\activate
+3º Instalar o Django: pip install Django
+4º Verificar a versão do Django: django-admin --version
+5º Iniciar o projeto do Django: django-admin startproject app .
+
